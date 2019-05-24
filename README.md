@@ -1,4 +1,4 @@
-## Tribute Page Project
+## Survey Form Project
 
 #### This is a CSS/HTML project having the purpose to create a Survey Form by fulfilling a series of user stories.
 
@@ -31,6 +31,6 @@
 
 [Source Project](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form/)
 
-#### CodePen
+#### Code
 
-[Code](https://codepen.io/traian-mihali/pen/vwdjrZ)
+[CodePen link](https://codepen.io/traian-mihali/pen/vwdjrZ)
